@@ -20,5 +20,4 @@ if(s==c)
 printf("pallindrom");
 else
 printf("not pallindrom");
-
 }
